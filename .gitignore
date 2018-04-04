@@ -1,3 +1,6 @@
+.gitignore
 a.out
 test.c
 test.cpp
+Note.md
+Makefile
